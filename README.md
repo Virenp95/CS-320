@@ -1,2 +1,9 @@
 # CS-320
 ### How can I ensure that my code, program, or software is functional and secure?
+Tetsing is the simple solution to the problem of quality. On the other hand, there is a need to set aside pride and ego during testing. To demonstrate or refute that the code accomplishes what it aims to do and does not do anything that was not intended is the objective of this endeavor. Independent testing teams are becoming more popular for a number of reasons, including this one. The act of testing itself is another essential component of the process. Build the tests into the continuous integration pipelines so that they carry out as part of the process and do not cause the build to become corrupted. Instead of just turning off the tests, you should examine them and make any necessary changes if they fail.
+
+### How do I interpret user needs and incorporate them into a program?
+When trying to understand user wants, it might be challenging since users aren't always clear about what they want or how to express it. Using the 5 Whys strategy during ellicitation is a common and effective method. Another helpful function is shoulder surfing, which involves observing another user as they use other software and then asking them about their preferences and the reasons behind their actions. Finally, it's a good idea to make mock-ups for the end user so that any mistakes in the final program may be avoided.
+
+### How do I approach designing software?
+I approach the individual who is delivering the program with an innocent curiosity in my heart. This is essential in order for them to be able to assist others in understanding their vision. In many cases, the client might not know everything right away, and elicitation can encourage them to investigate their vision in more depth. The phase in the requirements collecting process that I consider to be the most important is the gathering information step.
